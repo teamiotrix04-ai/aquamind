@@ -91,15 +91,6 @@ Team IoTrix
 · Jawahar S
 · Harshavarthan
 · Jayesh S
-
-📄 License
-
-This project is licensed for academic and personal use.
-
-🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
 ---
 
 💡 Precision irrigation for a sustainable future: saving every drop, and every watt.
