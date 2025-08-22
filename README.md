@@ -91,8 +91,3 @@ Team IoTrix
 · Jawahar S
 · Harshavarthan
 · Jayesh S
----
-
-💡 Precision irrigation for a sustainable future: saving every drop, and every watt.
-
----
